@@ -1,0 +1,78 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Delete">
+        <ActionSummary times="8" last="1590157398297" />
+      </entry>
+      <entry key="CloseProject">
+        <ActionSummary times="1" last="1589991809433" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="66" last="1590152703401" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="2" last="1589998991937" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="22" last="1590153084267" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="3" last="1590152699899" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="4" last="1589999071218" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="1" last="1589999069745" />
+      </entry>
+      <entry key="NewFile">
+        <ActionSummary times="8" last="1590154292692" />
+      </entry>
+      <entry key="NewPythonFile">
+        <ActionSummary times="3" last="1590157404748" />
+      </entry>
+      <entry key="OpenFile">
+        <ActionSummary times="2" last="1590152500771" />
+      </entry>
+      <entry key="PopupDialogAction">
+        <ActionSummary times="3" last="1589991783430" />
+      </entry>
+      <entry key="Run">
+        <ActionSummary times="14" last="1590152058174" />
+      </entry>
+      <entry key="RunClass">
+        <ActionSummary times="2" last="1590153157372" />
+      </entry>
+      <entry key="RunProfiler">
+        <ActionSummary times="1" last="1590067069797" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="31" last="1590154305517" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="1" last="1589759295921" />
+      </entry>
+      <entry key="Stop">
+        <ActionSummary times="2" last="1590152038640" />
+      </entry>
+      <entry key="com.intellij.diagnostic.WindowsDefenderFixAction">
+        <ActionSummary times="1" last="1590152676982" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="1" last="1589995843288" />
+      </entry>
+      <entry key="com.intellij.openapi.ui.DialogWrapper$5">
+        <ActionSummary times="5" last="1590153130099" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="4" last="1589991794055" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+        <ActionSummary times="4" last="1590153148203" />
+      </entry>
+      <entry key="editRunConfigurations">
+        <ActionSummary times="2" last="1590152717826" />
+      </entry>
+    </data>
+  </component>
+</application>

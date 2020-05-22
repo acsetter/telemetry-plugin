@@ -1,0 +1,217 @@
+amedtuple_enum.py
+cli-64.exebrain_numpy_core_umath.py
+depends.pybrain_builtin_inference.pybrain_numpy_core_numeric.pybrain_numpy_random_mtrand.py!brain_numpy_core_multiarray.py"brain_numpy_core_fromnumeric.py# brain_numpy_core_numerictypes.py$!brain_numpy_core_function_base.py
+_ast.py
+util.pybases.pynodes.py	mixins.py
+builder.py
+context.py
+helpers.py
+manager.py
+objects.py__init__.pyinterpreter
+_import
+spec.py
+util.py__init__.py__init__.pyobjectmodel.pydunder_lookup.pymodutils.pyarguments.pyas_string.pyinference.pyprotocols.pyrebuilder.pydecorators.pyexceptions.pytest_utils.pytransforms.py__pkginfo__.pynode_classes.pyraw_building.pyscoped_nodes.py
+certifi
+core.py
+cacert.pem__init__.py__main__.py
+chardetcli__init__.pychardetect.pyenums.pyescsm.py	compat.py	jpcntx.py	mbcssm.py
+jisfreq.py
+version.py__init__.pybig5freq.pyescprober.pyeuckrfreq.pyeuctwfreq.pybig5prober.pygb2312freq.pysjisprober.pyutf8prober.pycp949prober.pyeucjpprober.pyeuckrprober.pyeuctwprober.pygb2312prober.pyhebrewprober.pylatin1prober.pycharsetprober.pylangthaimodel.pylanggreekmodel.pylanghebrewmodel.pymbcharsetprober.pymbcsgroupprober.pysbcharsetprober.pysbcsgroupprober.pychardistribution.pylangturkishmodel.pylangcyrillicmodel.pyuniversaldetector.pycharsetgroupprober.pycodingstatemachine.pylangbulgarianmodel.pylanghungarianmodel.py
+urllib3util	url.py
+ssl_.py
+wait.pyqueue.pyretry.py
+request.py
+timeout.py__init__.pyresponse.pyconnection.py
+contribsocks.py__init__.pyntlmpool.pyappengine.pypyopenssl.py_securetransport__init__.pybindings.pylow_level.pysecuretransport.py_appengine_environ.pypackages	six.py	backports__init__.pymakefile.py__init__.pyssl_match_hostname__init__.py_implementation.py	fields.py
+request.py__init__.pyfilepost.pyresponse.pyconnection.pyexceptions.pypoolmanager.py_collections.pyconnectionpool.pycolorama
+ansi.pywin32.py
+winterm.py__init__.pyinitialise.pyansitowin32.pypyflakestest
+harness.py__init__.pytest_api.pytest_dict.pytest_other.pytest_builtin.pytest_checker.pytest_imports.pytest_doctests.pytest_is_literal.pytest_code_segment.pytest_undefined_names.pytest_type_annotations.py1.test_return_with_arguments_inside_generator.py	api.py
+scripts__init__.pypyflakes.py
+checker.py__init__.py__main__.pymessages.pyreporter.pyrequests	api.py
+auth.py
+help.pycerts.pyhooks.pyutils.py	compat.py	models.py
+cookies.py__init__.pyadapters.pypackages.pysessions.pyexceptions.pystructures.py__version__.pystatus_codes.py_internal_utils.py	mccabe.py	typed_astteststest_basics.py
+ast3.pyast27.py__init__.pyconversions.py
+gui-32.exe_ast3.cp38-win32.pyd
+gui-64.exe
+sandbox.py
+version.py__init__.pydep_util.py_ast27.cp38-win32.pydautopep8.pyrandom_wordtests__init__.pytest_word.pyutilsutils.py__init__.py	config.py__init__.pyrandom_word.pyentrypoints.pypycodestyle.pylazy_object_proxyslots.pyutils.py	compat.py	simple.py__init__.py_version.pyscript.tmplextension.pybuild_meta.pylib2to3_ex.pynamespaces.pypep425tags.pypy27compat.pypy31compat.pypy33compat.pysite-patch.pyssl_support.pyarchive_util.pypackage_index.pyunicode_utils.pyscript (dev).tmplwindows_support.py_deprecation_warning.pypkg_resources	extern__init__.py
+_vendor	six.py	packagingutils.py
+_compat.py
+markers.py
+version.py__init__.py__about__.pyspecifiers.py_structures.pyrequirements.py
+appdirs.py__init__.pypyparsing.py__init__.pypy31compat.pyeasy_install.pypip-19.2.3.dist-infocext.cp38-win32.pydidna-2.9.dist-infoWHEELWHEEL	RECORD	RECORDMETADATA	INSTALLERLICENSE.txttop_level.txtentry_points.txtsetuptools-41.2.0.dist-infoWHEELMETADATA	RECORD	INSTALLERLICENSE.rsttop_level.txtmypy_extensions.pymypy-0.761.dist-info
+LICENSEWHEEL	RECORDMETADATAzip-safe	INSTALLERtop_level.txtentry_points.txtdependency_links.txt
+LICENSEMETADATA	INSTALLERtop_level.txtentry_points.txtnose-1.3.7.dist-infoWHEEL	RECORDMETADATA	INSTALLERmetadata.jsontop_level.txtDESCRIPTION.rstentry_points.txtpip-20.0.2.dist-infoWHEEL	RECORDMETADATA	INSTALLERLICENSE.txttop_level.txtentry_points.txtsix-1.14.0.dist-infoWHEEL	RECORD
+LICENSEMETADATA	INSTALLERtop_level.txttyping_extensions.pyflake8-3.7.9.dist-infoWHEEL	RECORD
+LICENSEMETADATA	INSTALLERtop_level.txtentry_points.txtisort-4.3.21.dist-infoWHEEL	RECORD
+LICENSEMETADATA	INSTALLERtop_level.txtentry_points.txtmccabe-0.6.1.dist-infoWHEEL	RECORDMETADATA	INSTALLERmetadata.jsontop_level.txtDESCRIPTION.rstentry_points.txtpylint-2.4.4.dist-infoWHEEL	RECORD
+COPYINGMETADATA	INSTALLERtop_level.txtentry_points.txtastroid-2.3.3.dist-infoWHEEL	RECORD
+COPYINGMETADATA	INSTALLERtop_level.txtCOPYING.LESSERchardet-3.0.4.dist-infoWHEEL	RECORDMETADATA	INSTALLERmetadata.jsontop_level.txtDESCRIPTION.rstentry_points.txtcolorama-0.4.3.dist-infoWHEEL	RECORDMETADATA	INSTALLERLICENSE.txttop_level.txtpyflakes-2.1.1.dist-infoWHEEL	RECORD
+LICENSEMETADATA	INSTALLERtop_level.txtentry_points.txturllib3-1.25.8.dist-infoWHEEL	RECORDMETADATA	INSTALLERLICENSE.txttop_level.txtentrypoints-0.3.dist-infoWHEEL	RECORD
+LICENSEMETADATA	INSTALLERrequests-2.23.0.dist-infoWHEEL	RECORD
+LICENSEMETADATA	INSTALLERtop_level.txttyped_ast-1.4.1.dist-infoWHEEL	RECORD
+LICENSEMETADATA	INSTALLERtop_level.txtautopep8-1.5-py3.8.egg-infoPKG-INFOSOURCES.txtnot-zip-saferequires.txttop_level.txtentry_points.txtinstalled-files.txtdependency_links.txtpycodestyle-2.5.0.dist-infoWHEEL	RECORDMETADATA	INSTALLERLICENSE.txtmetadata.jsontop_level.txtDESCRIPTION.rstentry_points.txtnamespace_packages.txtRandom_Word-1.0.4.dist-infoWHEEL	RECORD
+LICENSEMETADATA	INSTALLERtop_level.txtwrapt-1.11.2-py3.8.egg-infoPKG-INFOSOURCES.txttop_level.txtinstalled-files.txtdependency_links.txtcertifi-2019.11.28.dist-infoWHEEL	RECORDMETADATA	INSTALLERmetadata.jsontop_level.txtDESCRIPTION.rst"mypy_extensions-0.4.3.dist-infoWHEEL	RECORD
+LICENSEMETADATA	INSTALLERtop_level.txt$!lazy_object_proxy-1.4.3.dist-infoWHEEL	RECORD
+LICENSEMETADATA	INSTALLERAUTHORS.rsttop_level.txt&#typing_extensions-3.7.4.1.dist-infoWHEEL	RECORD
+LICENSEMETADATA	INSTALLERtop_level.txt_xxsubinterpreters.py_lzma.py
+_locale.py_testconsole.py
+_md5.py
+_csv.py_weakref.py_testbuffer.py_codecs_jp.py_codecs_kr.py
+_lsprof.py_testcapi.py_hashlib.py_codecs_cn.py_warnings.py_statistics.py
+_sre.py_overlapped.py_ctypes_test.py
+_imp.py_sha1.py
+_sha256.py	_heapq.py_codecs_hk.py_sha3.py_functools.py_elementtree.py_sqlite3.py
+_ssl.py
+_random.py
+_socket.py
+_struct.py
+_ctypes.py_tkinter.py_testmultiphase.py_tracemalloc.py	_queue.py_codecs_tw.py_operator.py
+_pickle.py
+_thread.py_stat.py_multiprocessing.py_json.py_symtable.py
+_sha512.py
+_winapi.py
+_codecs.py_testimportmultiple.py
+_string.py_collections.py
+_signal.py_datetime.py_contextvars.py_codecs_iso2022.py
+_opcode.py	_io.py_multibytecodec.py_decimal.py
+_msi.py
+.gitignoreginFactory_AMD64MathSubstitutionsOLorg.graalvm.compiler.replacements.amd64.PluginFactory_AMD64StringIndexOfNodeOLorg.graalvm.compiler.replacements.nodes.PluginFactory_UnaryMathIntrinsicNodePMorg.graalvm.compiler.hotspot.replacements.PluginFactory_AESCryptSubstitutionsPMorg.graalvm.compiler.hotspot.replacements.PluginFactory_StringToBytesSnippetsPMorg.graalvm.compiler.replacements.PluginFactory_ConstantStringIndexOfSnippetsPMorg.graalvm.compiler.replacements.nodes.PluginFactory_BinaryMathIntrinsicNodeQNorg.graalvm.compiler.replacements.amd64.PluginFactory_AMD64StringSubstitutionsROorg.graalvm.compiler.hotspot.nodes.aot.PluginFactory_LoadConstantIndirectlyNodeROorg.graalvm.compiler.hotspot.replacements.PluginFactory_HotSpotReplacementsUtilTQorg.graalvm.compiler.hotspot.replacements.profiling.PluginFactory_ProfileSnippetsVSorg.graalvm.compiler.hotspot.nodes.PluginFactory_JumpToExceptionHandlerInCallerNodeVSorg.graalvm.compiler.hotspot.replacements.arraycopy.PluginFactory_ArrayCopyCallNodeVSorg.graalvm.compiler.hotspot.replacements.arraycopy.PluginFactory_ArrayCopySnippetsWTorg.graalvm.compiler.hotspot.nodes.aot.PluginFactory_LoadConstantIndirectlyFixedNodeXUorg.graalvm.compiler.hotspot.nodes.aot.PluginFactory_LoadMethodCountersIndirectlyNodeYVorg.graalvm.compiler.replacements.aarch64.PluginFactory_AArch64FloatArithmeticSnippets[Xorg.graalvm.compiler.hotspot.replacements.PluginFactory_CipherBlockChainingSubstitutions[Xorg.graalvm.compiler.replacements.aarch64.PluginFactory_AArch64IntegerArithmeticSnippets\Yorg.graalvm.compiler.hotspot.nodes.aot.PluginFactory_ResolveMethodAndLoadCountersStubCall]Zorg.graalvm.compiler.hotspot.replacements.arraycopy.PluginFactory_GenericArrayCopyCallNode^[org.graalvm.compiler.hotspot.replacements.arraycopy.PluginFactory_ArrayCopyWithSlowPathNode_\org.graalvm.compiler.hotspot.replacements.arraycopy.PluginFactory_CheckcastArrayCopyCallNodea^org.graalvm.compiler.hotspot.replacements.profiling.PluginFactory_ProbabilisticProfileSnippetsmodule-info.classstandardSchemas
+xhtml11	resources
+patcheshtml5xhtml11.dtdout
+productionUI	ftc_uiimgxhtml-lat1.ent
+ftc.pngmeta-ext.rncxhtml-base-1.modnetwork.pngembed-ext.rncxhtml-edit-1.mod
+xhtml5.xsdcommon-ext.rncxhtml-form-1.mod
+xml.xsd0004_ping.patchxhtml-link-1.mod	xhtml.dtd0001_html5.patchxhtml-list-1.mod	xlink.dtd0002_xhtml5.patchxhtml-meta-1.mod
+xhtml1.dtd0007_legacy.patchxhtml-pres-1.modcatalog.xsdpatch_build.patchxhtml-ruby-1.modxinclude.xsdcore-scripting-ext.rncxhtml-symbol.entxslt-1_0.xsd0008_svg_gradient.patchxhtml-text-1.modxslt-2_0.xsd0005_html5_namespace.patchXMLSchema-1_1xhtml-image-1.mod0006_xhtml5_namespace.patchxhtml-param-1.modrelaxng.rngxhtml-qname-1.modhtml5-schemaxhtml-special.entXMLSchema.xsdxhtml-style-1.mod$!XMLSchema-hasFacetAndProperty.xsdxhtml-table-1.modXMLSchema.dtdxhtml-events-1.modXMLSchema.xsdxhtml-object-1.moddatatypes.dtdxhtml-script-1.modxhtml-lat1.entxhtml-struct-1.modxhtml-symbol.entxhtml-target-1.modxhtml-special.entxhtml-attribs-1.modxhtml1-strict.dtdxhtml-blkpres-1.modxhtml1-strict.xsdxhtml-charent-1.modxhtml1-frameset.dtdxhtml-csismap-1.modxhtml1-frameset.xsdxhtml-inlpres-1.modplugin-repository.dtdxhtml-ssismap-1.modrdfxhtml11-model-1.modXMLSchema-instance.xsdxhtml-blkphras-1.modxhtml1-transitional.dtdxhtml-inlphras-1.mod
+rdf.rncxhtml1-transitional.xsdxhtml-inlstyle-1.modits2xhtml-blkstruct-1.modXMLSchema-versioning.xsdxhtml-datatypes-1.modxhtml-mobileits20-html5.rncxhtml-framework-1.modits20-html5-types.rncuser-friends.svgxhtml-hypertext-1.modhtml5PROFILE_PIC_1.jpgxhtml-inlstruct-1.modxhtml-mobile10.dtdxhtml-basic-form-1.modxhtml-mobile12.dtdxhtml-basic-table-1.modsvg11xhtmlmp12-form-1.modxhtml-mobile10-flat.dtdxhtml-mobile12-form.modxhtml-mobile10-model-1.modxhtml-mobile12-model-1.mod
+schemasproperties.dtdmml3network-150919.svgskins
+modena.csstableMakefilearia.rncdata.rncmeta.rnc	svg11.rncrdfa.rncinkscape.rncruby.rncsvg-clip.rnc	patch-vnu	block.rncmathml3.rncsvg-font.rnc	embed.rncmathml3-inc.rncsvg-mask.rnc	html5.rncsvg-text.rncmathml3-common.rnc	media.rncaddFolder.fxmlsvg-view.rncmathml3-content.rnc
+common.rncDeleteDialog.fxmlsvg-image.rncmathml3-presentation.rnc
+legacy.rncFTC2.imlsvg-qname.rncmathml3-strict-content.rnc
+phrase.rnc	style.csssvg-shape.rnc
+tables.rncsass_meta.scssftc_ui.fxmlsvg-style.rnc
+xhtml5.rncsass_math.scsssvg11-inc.rncmeta-ext.rncsass_map.scsssvg-cursor.rncrevision.rncsass_list.scsssvg-filter.rncembed-ext.rncsass_color.scsssvg-marker.rnchtml5core.rncsass_functions.scsssvg-script.rnchtml5full.rncsass_string.scsssvg11-tiny.rncmicrodata.rncsass_selector.scsssvg-pattern.rncsectional.rncsvg-profile.rnc
+react.d.tsweb-forms.rncsvg11-basic.rnccommon-ext.rncsvg-gradient.rncstructural.rncsvg-animation.rncweb-forms2.rncxhtml5core.rncwebassembly.jsits20-html5.rnc	bom.jsapplications.rnc
+core.jscore-scripting.rnc
+intl.jsform-datatypes.rnccssom.jshtml5full-rdfa.rncserviceworkers.jsweb-components.rncsvg-datatypes.rnc
+streams.jshtml5exclusions.rncsvg-hyperlink.rncreact.jsxhtml5full-html.rncsvg-structure.rnc	dom.jsxhtml5full-xhtml.rncinkscape-draft.rncits20-html5-types.rncindexeddb.jssvg-basic-clip.rnccore-scripting-ext.rnc
+node.jssvg-basic-font.rnchtml5full-rdfalite.rncsvg-basic-text.rncreact-dom.jsweb-forms-scripting.rncsvg11-tiny-inc.rnclib.dom.d.tssvg-conditional.rnclib.dom.iterable.d.tsweb-forms2-scripting.rncsvg-core-attrib.rnclib.scripthost.d.tsxhtml5full-xhtml-rdfa.rncsvg11-basic-inc.rnclib.webworker.d.tshtml5full-no-microdata.rncsvg-basic-filter.rnc# lib.webworker.importscripts.d.tsxhtml5full-html-rdfalite.rncsvg-paint-attrib.rncbrowser.d.tssvg-xlink-attrib.rnc xhtml5full-xhtml-rdfalite.rnc
+xpath.d.tssvg-extensibility.rnc!xhtml5core-plus-web-forms2.rncwebsql.d.tssvg-opacity-attrib.rnc# xhtml5full-html-no-microdata.rnclib.esnext.bigint.d.tssvg-basic-structure.rnc$!xhtml5full-xhtml-no-microdata.rnces2019decorators.d.tssvg-graphics-attrib.rnclib.es2017.sharedmemory.d.tssvg-viewport-attrib.rnc lib.es2018.asynciterable.d.tssvg-container-attrib.rnclib.es2020.string.d.ts
+LICENSEsvg-docevents-attrib.rnclib.es2016.d.ts	html5.rncsvg-animevents-attrib.rnc# lib.es2015.symbol.wellknown.d.ts
+xhtml5.rnclib.es2019.string.d.tssvg-graphevents-attrib.rnchtml5-all.rnclib.es2020.promise.d.tssvg-extresources-attrib.rnchtml5-its.rnclib.es2017.intl.d.ts svg-basic-graphics-attrib.rnchtml5chars.entlib.es2019.d.tslib.esnext.symbol.d.tsxhtml5-all.rnclib.es2015.core.d.tslib.es2017.typedarrays.d.tshtml5-rdfalite.rnclib.es2015.symbol.d.tslib.es2015.generator.d.tsxhtml5-rdfalite.rnclib.es2015.reflect.d.tshtml5-svg-mathml.rnclib.es2018.d.tshttp-client-stub.jsxhtml5-svg-mathml.rnclib.es2015.proxy.d.ts lib.es2016.array.include.d.tshtml5-no-microdata.rnclib.esnext.intl.d.tslib.esnext.promise.d.tslib.es2017.d.tslib.es2019.symbol.d.tshtml5-rdfalite-w3c.rnclib.es2019.array.d.tsflow.utilities.d.tsxhtml5-no-microdata.rnclib.es2018.promise.d.tslib.esnext.d.ts!lib.es2018.asyncgenerator.d.tsxhtml5-rdfalite-w3c.rnclib.es2017.string.d.tslib.es2020.bigint.d.tssvg-xhtml5-rdf-mathml.rnclib.es2015.promise.d.tslib.es2020.d.ts!xhtml1-ruby-rdf-svg-mathml.rnclib.es2019.object.d.tslib.es2018.intl.d.tslib.es2015.iterable.d.tslib.esnext.array.d.tslib.es2015.collection.d.tslib.es2015.d.tslib.es2018.regexp.d.tslib.es5.d.tshtml5charref.rb# lib.es2020.symbol.wellknown.d.ts lib.esnext.asynciterable.d.tsupdate_html5_schema.shlib.es2017.object.d.tslib.es2019.full.d.tslib.es2018.full.d.tslib.esnext.full.d.tslib.es2020.full.d.tslib.es2017.full.d.tslib.es2016.full.d.tslib.d.ts
+collectionlib.es6.d.tsstubshttp-dynamic-variables.json
+builtin.ppget-requests.httpapppost-requests.httphttp-client.env.jsonrequest-form-data.jsonrequests-with-tests.httphttp-client.private.env.jsonstub_functions.rb# requests-with-authorization.httpbuiltin_variables.ppefe94871json-20190722.jartest  intellij-sdk-docs-master.zip intellij-community-master.zipAssignment07.ideamisc.xmlmodules.xmlworkspace.xmlAssignment07.imlinspectionProfilesprofiles_settings.xmlc93b9584
+test.py
+hashmap.py
+sheriff.pyquestions.txthashmap_test.pyAssignment07_2_Aaron_C
+hashmap.pyquestions.txtdriver_database_large.csvAssignment07_2_Aaron_C.zipAssignment07_Aaron_Csetter
+hashmap.pyquestions.txt!Assignment07_Aaron_Csetter.zip+(1a4dfd9c-bcb5-4ab1-926d-ebb3e07d7eb6.mp4 
+.gitignore  
+test.py  
+test.pyvenv
+Include
+ScriptsLib
+pyvenv.cfgsite-packagespip
+setuptoolseasy_install.pypkg_resourcespip-19.2.3.dist-infosetuptools-41.2.0.dist-info	_internal__init__.py__main__.py
+_vendor	distro.py	packagingcachecontrol	six.pyretrying.pypyparsing.py
+appdirs.py
+urllib3__init__.pyrequestslockfile
+chardetipaddress.py	pytomlwebencodingspkg_resourcescolorama
+certifiprogress	pep517
+msgpackhtml5libidna
+distlib
+core.pyidnadata.pyintranges.pypackage_data.pyuts46data.py__init__.py	compat.pycodec.pycheck.py_in_process.pyenvbuild.pybuild.pycolorlog.py__init__.py	compat.pywrappers.py__init__.py	parser.py
+test.pyutils.py
+core.py	writer.py
+cacert.pem
+core.py__main__.py__init__.pybig5prober.pysjisprober.pysbcsgroupprober.pylanggreekmodel.pygb2312prober.pyeuctwprober.pyutf8prober.pylangbulgarianmodel.pyeuckrfreq.pylanghungarianmodel.pylangturkishmodel.pyclieuckrprober.py	mbcssm.py__init__.pyescprober.pychardistribution.pysbcharsetprober.pyhebrewprober.pylangcyrillicmodel.pyuniversaldetector.pymbcsgroupprober.pybig5freq.pycharsetgroupprober.pygb2312freq.py
+jisfreq.pyeucjpprober.pylangthaimodel.pycodingstatemachine.pycp949prober.pylatin1prober.pycharsetprober.pyescsm.py
+version.py	jpcntx.py	compat.pyenums.pymbcharsetprober.pylanghebrewmodel.pyeuctwfreq.py__init__.pychardetect.pywheel.pyresources.py	_backport
+markers.pylocators.py
+scripts.pymetadata.py
+w64.exe	compat.py
+util.py
+w32.exedatabase.py
+t64.exe
+version.py
+t32.exeindex.py__init__.pymanifest.pysysconfig.py	shutil.py
+tarfile.py__init__.pysysconfig.cfg
+misc.py_version.pyexceptions.pyfallback.py__init__.py__init__.pypoolmanager.py	fields.pyconnectionpool.pyutil_collections.pyexceptions.pyfilepost.py
+request.pyresponse.pyconnection.py
+contribpackages__init__.py
+wait.pyqueue.py	url.pyconnection.pyresponse.pyretry.py
+ssl_.py
+request.py
+timeout.py__init__.py_securetransport_appengine_environ.pypyopenssl.pyappengine.pysecuretransport.pyntlmpool.pysocks.py__init__.pylow_level.pybindings.py__init__.py	backportsssl_match_hostname
+rfc3986	six.py__init__.pyabnf_regexp.py
+misc.py	uri.py	api.py
+builder.py	compat.pyvalidators.pynormalizers.py	iri.py	_mixin.pyparseresult.pyexceptions.py__init__.pymakefile.py__init__.py_implementation.pyinitialise.py
+winterm.pyansitowin32.py__init__.py
+ansi.pywin32.py_inputstream.py
+filterstreewalkersserializer.py_ihatexml.py_trie	_utils.pytreeadaptersconstants.py__init__.py_tokenizer.pyhtml5parser.pytreebuilders__init__.py	datrie.py_base.pypy.pysanitizer.py__init__.pywhitespace.pyalphabeticalattributes.pyoptionaltags.py
+lint.py
+base.pyinject_meta_charset.py
+base.pyetree.py	dom.py__init__.py	genshi.pyetree_lxml.py__init__.py	genshi.py	sax.py
+base.pyetree.py	dom.py__init__.pyetree_lxml.pysqlitelockfile.pylinklockfile.py__init__.pypidlockfile.pymkdirlockfile.pysymlinklockfile.py
+counter.py
+spinner.py	bar.py__init__.py__version__.pyhooks.pypackages.py	models.py	api.pyadapters.py_internal_utils.py
+cookies.py	compat.pystatus_codes.pysessions.pycerts.pystructures.py
+auth.pyexceptions.py
+help.pyutils.py__init__.pyutils.py
+markers.pyrequirements.py_structures.py__init__.pyspecifiers.py
+_compat.py
+version.py__about__.py__init__.py
+_cmd.py
+wrapper.pyheuristics.pyfilewrapper.pycontroller.pyserialize.py
+adapter.py	cachescache.py	compat.py__init__.pyredis_cache.pyfile_cache.pymklabels.py	labels.py__init__.pyx_user_defined.pytests.py__init__.pypy31compat.pycommands
+operationswheel.pylocations.py	modelsvcsbuild_env.pyindex.pycache.pyclipyproject.pylegacy_resolve.pypep425tags.pydistributionsexceptions.pyconfiguration.pyreqdownload.py__init__.pyautocompletion.pybase_command.py__init__.pymain_parser.pycmdoptions.pystatus_codes.py	parser.pyreq_install.py__init__.pyreq_file.pyconstructors.py
+req_set.pyutilsreq_tracker.py	git.pymercurial.py__init__.py	bazaar.pysubversion.pyversioncontrol.pyoutdated.py
+misc.pyui.py	models.pyglibc.py	hashes.pysetuptools_build.pyvirtualenv.py
+logging.pyreq_uninstall.py	compat.pyencoding.pydeprecation.pyfilesystem.pytemp_dir.pymarker_files.py
+appdirs.pypackaging.py__init__.py
+link.pyselection_prefs.py__init__.pysearch_scope.pyindex.pycandidate.pyformat_control.pytarget_python.py	search.pydownload.py	freeze.py
+show.py__init__.py
+list.pyconfiguration.py
+help.pydebug.pywheel.pyuninstall.pycheck.py
+hash.pycompletion.py
+install.py__init__.py	freeze.pycheck.py
+prepare.pyinstalled.py	source.py
+base.py__init__.pywheel.pyunicode_utils.py
+gui-64.exepy33compat.py
+version.py
+msvc.pypackage_index.pyextension.pyssl_support.pylib2to3_ex.pyglibc.py
+cli-64.exe
+cli-32.exepy31compat.pyscript.tmpl
+glob.py	config.py
+_vendor
+command
+gui.exe
+sandbox.py	extern	monkey.py	launch.pypy27compat.pywheel.pynamespaces.py
+gui-32.exewindows_support.py__init__.py	typing.pyarchive_util.py
+cli.exedep_util.pysite-patch.py
+dist.pypep425tags.py
+depends.py_deprecation_warning.pybuild_meta.py__init__.py__init__.py	packagingpyparsing.py	six.pyutils.py
+markers.pyrequirements.py_structures.py__init__.pyspecifiers.py
+_compat.py
+version.py__about__.py
+develop.pysdist.pyscript (dev).tmplbuild_py.py__init__.pybuild_clib.py	rotate.pyinstall_egg_info.py	upload.pysaveopts.py	setopt.pypy36compat.pybdist_wininst.pyegg_info.pyinstall_scripts.py
+test.pybdist_rpm.pydist_info.pyeasy_install.pybdist_egg.pyupload_docs.py
+install.pybuild_ext.pyregister.pyalias.pylauncher manifest.xmlpy31compat.py__init__.py	extern
+_vendor__init__.py
+appdirs.py__init__.pypyparsing.py	packaging	six.pyutils.py
+markers.pyrequirements.py_structures.py__init__.pyspecifiers.py
+_compat.py
+version.py__about__.py	RECORD	INSTALLERentry_points.txtWHEELLICENSE.txtMETADATAtop_level.txtWHEELtop_level.txtMETADATA
+LICENSE	RECORD	INSTALLERentry_points.txtdependency_links.txtzip-safeactivate
+pip3.8.exe
+pip.exeeasy_install-3.8.exe
+python.exeActivate.ps1pip3.exepythonw.exedeactivate.batinstall_lib.pyactivate.bateasy_install.exe  
+test.py  
+test.py  
+test.py
+test.pytest2.pyAssignment227860d15
+.vscodesettings.json
+test.pyaccounts.csvprocess_accounts.pyaccounts_with_interest.csvAssignment2.iml.ideaprofiles_settings.xmlinspectionProfilesmodules.xmlmisc.xmlworkspace.xml    test2.pyc93b9584 27860d15test3.py  test3.py  test3.py  test3.py  test3.pytest4.py  test4.py  test4.py  test4.py    test3.py 

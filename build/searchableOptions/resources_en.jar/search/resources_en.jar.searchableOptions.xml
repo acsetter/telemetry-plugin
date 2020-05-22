@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="body" hit="JavaScript Implemented Method Body" />
+    <option name="implemented" hit="JavaScript Implemented Method Body" />
+    <option name="javascript" hit="JavaScript Implemented Method Body" />
+    <option name="method" hit="JavaScript Implemented Method Body" />
+    <option name="body" hit="JavaScript Overridden Method Body" />
+    <option name="javascript" hit="JavaScript Overridden Method Body" />
+    <option name="method" hit="JavaScript Overridden Method Body" />
+    <option name="overridden" hit="JavaScript Overridden Method Body" />
+    <option name="class" hit="React Class Component" />
+    <option name="component" hit="React Class Component" />
+    <option name="react" hit="React Class Component" />
+    <option name="component" hit="React Functional Component" />
+    <option name="functional" hit="React Functional Component" />
+    <option name="react" hit="React Functional Component" />
+    <option name="body" hit="TypeScript Implemented Method Body" />
+    <option name="implemented" hit="TypeScript Implemented Method Body" />
+    <option name="method" hit="TypeScript Implemented Method Body" />
+    <option name="typescript" hit="TypeScript Implemented Method Body" />
+    <option name="class" hit="Typed React Class Component" />
+    <option name="component" hit="Typed React Class Component" />
+    <option name="react" hit="Typed React Class Component" />
+    <option name="typed" hit="Typed React Class Component" />
+    <option name="component" hit="Typed React Functional Component" />
+    <option name="functional" hit="Typed React Functional Component" />
+    <option name="react" hit="Typed React Functional Component" />
+    <option name="typed" hit="Typed React Functional Component" />
+  </configurable>
+</options>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="csed" path="ActionManager" hit="CSED Popup" />
+    <option name="popup" path="ActionManager" hit="CSED Popup" />
+    <option name="action" path="ActionManager" hit="Test Action" />
+    <option name="test" path="ActionManager" hit="Test Action" />
+  </configurable>
+</options>
+

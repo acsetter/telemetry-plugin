@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="file" path="ActionManager" hit="Run File Watchers" />
+    <option name="run" path="ActionManager" hit="Run File Watchers" />
+    <option name="watchers" path="ActionManager" hit="Run File Watchers" />
+    <option name="available" path="ActionManager" hit="Runs available file watchers for files" />
+    <option name="file" path="ActionManager" hit="Runs available file watchers for files" />
+    <option name="files" path="ActionManager" hit="Runs available file watchers for files" />
+    <option name="for" path="ActionManager" hit="Runs available file watchers for files" />
+    <option name="runs" path="ActionManager" hit="Runs available file watchers for files" />
+    <option name="watchers" path="ActionManager" hit="Runs available file watchers for files" />
+  </configurable>
+  <configurable id="watcher.settings" configurable_name="File Watchers">
+    <option name="file" hit="File Watchers" />
+    <option name="watchers" hit="File Watchers" />
+  </configurable>
+</options>
+

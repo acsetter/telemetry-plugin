@@ -1,0 +1,37 @@
+<idea-plugin>
+    <id>edu.uncw.hfcs.csed</id>
+    <name>csed-telemetry</name>
+    <vendor email="aaron@csetter.com" url="http://www.csetter.com">UNCW</vendor>
+
+    <description><![CDATA[
+    Computer Science Education Telemetry.<br>
+    <em>Educational Purposes Only</em>
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <applicationListeners>
+        <listener class="edu.uncw.hfcs.csed.plugin.listeners.ProjectOpenCloseListener"
+                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
+        <listener class="edu.uncw.hfcs.csed.plugin.listeners.DocListener"
+                  topic="com.intellij.openapi.editor.event.DocumentListener" />
+    </applicationListeners>
+    
+    <projectListeners>
+        <listener class="edu.uncw.hfcs.csed.plugin.listeners.VfsListener"
+                  topic="com.intellij.openapi.vfs.newvfs.BulkFileListener"/>
+        <listener class="edu.uncw.hfcs.csed.plugin.listeners.DocListener"
+                  topic="com.intellij.openapi.editor.event.DocumentListener" />
+    </projectListeners>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <applicationService serviceImplementation="edu.uncw.hfcs.csed.plugin.services.ProjectCountService"/>
+        <typedHandler implementation="edu.uncw.hfcs.csed.plugin.handlers.TypeHandler"/>
+    </extensions>
+    <actions>
+        <action id="EditorAction" class="edu.uncw.hfcs.csed.plugin.actions.EditorAction"/>
+    </actions>
+    <idea-version since-build="201"/>
+</idea-plugin>

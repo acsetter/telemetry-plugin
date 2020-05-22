@@ -1,0 +1,51 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/projects/ftc_project">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1ZE5h5SUfJTtxog6lwKVN3gWGec">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-201.6668.115" />
+              <option name="buildTimestamp" value="1586256098598" />
+              <frame x="4095" y="174" width="2100" height="1500" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1589995844161" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Cloud/uncw/231/Assignment07">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1ZthymmpPPx0bAwGPLXyn3VDX1i">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-201.6668.115" />
+              <option name="buildTimestamp" value="1586256114251" />
+              <frame x="4095" y="174" width="2100" height="1500" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1590152459340" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Cloud/uncw/231/Assignment2">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1cGQa1PpPPqAwl3PlASQXdW0aL9">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-201.6668.115" />
+              <option name="buildTimestamp" value="1586256112054" />
+              <frame x="4095" y="174" width="2100" height="1500" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1590157377168" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Cloud/uncw/231/Assignment2" />
+        <option value="$USER_HOME$/Cloud/uncw/231/Assignment07" />
+        <option value="$USER_HOME$/projects/ftc_project" />
+      </list>
+    </option>
+  </component>
+</application>

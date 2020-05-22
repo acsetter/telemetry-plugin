@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="copy" path="ActionManager" hit="Copy Link" />
+    <option name="link" path="ActionManager" hit="Copy Link" />
+    <option name="clipboard" path="ActionManager" hit="Copy link to clipboard" />
+    <option name="copy" path="ActionManager" hit="Copy link to clipboard" />
+    <option name="link" path="ActionManager" hit="Copy link to clipboard" />
+    <option name="to" path="ActionManager" hit="Copy link to clipboard" />
+    <option name="actions" path="ActionManager" hit="JetBrains Datalore Actions" />
+    <option name="datalore" path="ActionManager" hit="JetBrains Datalore Actions" />
+    <option name="jetbrains" path="ActionManager" hit="JetBrains Datalore Actions" />
+    <option name="access" path="ActionManager" hit="Manage Access Rights" />
+    <option name="manage" path="ActionManager" hit="Manage Access Rights" />
+    <option name="rights" path="ActionManager" hit="Manage Access Rights" />
+    <option name="access" path="ActionManager" hit="Manage access rights" />
+    <option name="manage" path="ActionManager" hit="Manage access rights" />
+    <option name="rights" path="ActionManager" hit="Manage access rights" />
+    <option name="link" path="ActionManager" hit="Open Link" />
+    <option name="open" path="ActionManager" hit="Open Link" />
+    <option name="browser" path="ActionManager" hit="Open link in browser" />
+    <option name="in" path="ActionManager" hit="Open link in browser" />
+    <option name="link" path="ActionManager" hit="Open link in browser" />
+    <option name="open" path="ActionManager" hit="Open link in browser" />
+    <option name="datalore" path="ActionManager" hit="Sign out of JetBrains Datalore" />
+    <option name="jetbrains" path="ActionManager" hit="Sign out of JetBrains Datalore" />
+    <option name="of" path="ActionManager" hit="Sign out of JetBrains Datalore" />
+    <option name="out" path="ActionManager" hit="Sign out of JetBrains Datalore" />
+    <option name="sign" path="ActionManager" hit="Sign out of JetBrains Datalore" />
+    <option name="notebook" path="ActionManager" hit="Update Notebook" />
+    <option name="update" path="ActionManager" hit="Update Notebook" />
+    <option name="notebook" path="ActionManager" hit="Update notebook" />
+    <option name="update" path="ActionManager" hit="Update notebook" />
+    <option name="datalore" path="ActionManager" hit="Upload notebook to JetBrains Datalore" />
+    <option name="jetbrains" path="ActionManager" hit="Upload notebook to JetBrains Datalore" />
+    <option name="notebook" path="ActionManager" hit="Upload notebook to JetBrains Datalore" />
+    <option name="to" path="ActionManager" hit="Upload notebook to JetBrains Datalore" />
+    <option name="upload" path="ActionManager" hit="Upload notebook to JetBrains Datalore" />
+    <option name="datalore" path="ActionManager" hit="Upload to JetBrains Datalore" />
+    <option name="jetbrains" path="ActionManager" hit="Upload to JetBrains Datalore" />
+    <option name="to" path="ActionManager" hit="Upload to JetBrains Datalore" />
+    <option name="upload" path="ActionManager" hit="Upload to JetBrains Datalore" />
+  </configurable>
+  <configurable id="datalore.settings" configurable_name="Datalore">
+    <option name="" hit=" Sign out" />
+    <option name="out" hit=" Sign out" />
+    <option name="sign" hit=" Sign out" />
+    <option name="api" hit="API Token: " />
+    <option name="token" hit="API Token: " />
+    <option name="datalore" hit="Datalore" />
+    <option name="datalore" hit="Datalore URL:" />
+    <option name="url" hit="Datalore URL:" />
+    <option name="endpoint" hit="Endpoint settings" />
+    <option name="settings" hit="Endpoint settings" />
+    <option name="datalore" hit="JetBrains Datalore View" />
+    <option name="jetbrains" hit="JetBrains Datalore View" />
+    <option name="view" hit="JetBrains Datalore View" />
+    <option name="development" hit="Local development" />
+    <option name="local" hit="Local development" />
+    <option name="port" hit="Port:" />
+    <option name="presets" hit="Presets:" />
+    <option name="production" hit="Production" />
+    <option name="dialog" hit="Show  upload dialog" />
+    <option name="show" hit="Show  upload dialog" />
+    <option name="upload" hit="Show  upload dialog" />
+    <option name="staging" hit="Staging" />
+    <option name="url" hit="View URL:" />
+    <option name="view" hit="View URL:" />
+  </configurable>
+</options>
+

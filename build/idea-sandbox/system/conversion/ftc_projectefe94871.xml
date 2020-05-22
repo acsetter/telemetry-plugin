@@ -1,0 +1,16 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\aaron\projects\ftc_project\.idea\vcs.xml" timestamp="1584396616048" />
+    <file path="C:\Users\aaron\projects\ftc_project\.idea\libraries\lib.xml" timestamp="1589995846175" />
+    <file path="C:\Users\aaron\projects\ftc_project\.idea\compiler.xml" timestamp="1585534720263" />
+    <file path="C:\Users\aaron\projects\ftc_project\.idea\uiDesigner.xml" timestamp="1584471664234" />
+    <file path="C:\Users\aaron\projects\ftc_project\.idea\workspace.xml" timestamp="1589996033761" />
+    <file path="C:\Users\aaron\projects\ftc_project\.idea\modules.xml" timestamp="1584396604707" />
+    <file path="C:\Users\aaron\projects\ftc_project\UI.iml" timestamp="1589982866313" />
+    <file path="C:\Users\aaron\projects\ftc_project\.idea\misc.xml" timestamp="1584396518071" />
+    <file path="C:\Users\aaron\projects\ftc_project\.idea\encodings.xml" timestamp="1585534720264" />
+  </project-files>
+</conversion>
